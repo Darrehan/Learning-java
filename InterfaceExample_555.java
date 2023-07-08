@@ -60,7 +60,7 @@ class phone{
        @Override
       public void call()
         {
-            System.out.println("Buddy your Rehan is callying ");
+            System.out.println("Buddy  Rehan is callying ");
         }
        @Override
       public void takesnapshot()
