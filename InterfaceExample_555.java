@@ -19,7 +19,7 @@ class phone{
          void addGazals();
     }
     interface camera{
-         void clickphoto();
+        void clickphoto();
         void takevedio();
     }
     interface addcamera extends camera{  //interface are extended
